@@ -77,7 +77,7 @@ Follow steps below to train your model:
 ### running
 使用demo.py进行验证测试。下面文件夹设置读取的图片目录，可自己设置:
 
-    ```python
+    ```Shell
     image_dir = 'data/JPEGImages'
     result_dir = 'data/results_test'
     ```
