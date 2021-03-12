@@ -75,7 +75,8 @@ Follow steps below to train your model:
     bash train_coco.sh
     ```    
 ### running
-使用demo.py进行验证测试。下面文件夹设置读取的图片目录，可自己设置。在parser里面的weights里设置读取权重的目录
+    使用demo.py进行验证测试。下面文件夹设置读取的图片目录，可自己设置。在parser里面的weights里设置读取权重的目录。
+
     ```python
     image_dir = 'data/JPEGImages'
     result_dir = 'data/results_test'
