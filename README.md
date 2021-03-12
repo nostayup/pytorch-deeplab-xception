@@ -77,11 +77,11 @@ Follow steps below to train your model:
 ### running
 使用demo.py进行验证测试。下面文件夹设置读取的图片目录，可自己设置:
 
+
     ```Shell
     image_dir = 'data/JPEGImages'
     result_dir = 'data/results_test'
     ```
-
 在parser里面的weights里设置读取权重的目录。
 
 ### Acknowledgement
